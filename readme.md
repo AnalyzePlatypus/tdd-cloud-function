@@ -8,8 +8,8 @@ This template has all the functionality of [Blank-Google-Cloud-Function](https:/
 
 ```bash
 # Make sure you have the emulator installed (See #Installation)
-git clone git@github.com:AnalyzePlatypus/Blank-Google-Cloud-Function.git
-cd Blank-Google-Cloud-Function
+git clone git@github.com:AnalyzePlatypus/tdd-cloud-function.git
+cd tdd-cloud-function
 npm install
 
 npm run test
