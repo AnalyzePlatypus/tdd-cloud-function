@@ -2,7 +2,7 @@
 
 Serverless is awesome!
 
-This template has all the functionality of [Blank-Google-Cloud-Function]("https://github.com/AnalyzePlatypus/Blank-Google-Cloud-Function"), configured for local testing with Jest.
+This template has all the functionality of [Blank-Google-Cloud-Function](https://github.com/AnalyzePlatypus/Blank-Google-Cloud-Function), configured for local testing with Jest.
 
 ## Quick Start
 
