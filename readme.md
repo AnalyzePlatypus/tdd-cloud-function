@@ -17,7 +17,7 @@ npm run test
 
 ## Further Information
 
-See [Blank-Google-Cloud-Function]("https://github.com/AnalyzePlatypus/Blank-Google-Cloud-Function").
+See [Blank-Google-Cloud-Function](https://github.com/AnalyzePlatypus/Blank-Google-Cloud-Function).
 
 ## About the Files
 
