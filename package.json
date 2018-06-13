@@ -1,5 +1,6 @@
 {
     "name": "blank_tdd_cloud_function",
+    "repository": "https://github.com/AnalyzePlatypus/tdd-cloud-function",
     "readme": "readme.md",
     "version": "0.0.1",
     "main": "index.js",
